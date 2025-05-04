@@ -4,6 +4,7 @@ import os
 
 font = fontforge.open("original.ttf")
 font.encoding = "UnicodeFull"
+font.fontname = "ShirasuFont-Regular"
 font.familyname = "ShirasuFont"
 font.fullname = "Shirasu Font Regular"
 font.weight = "Regular"
