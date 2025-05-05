@@ -2,3 +2,6 @@ original.ttf
 memo.txt
 debug.log
 tmp*
+/glaph_images/to_rmbg/*
+!/glaph_images/to_rmbg/*.bash
+!/glaph_images/to_rmbg/*.py
