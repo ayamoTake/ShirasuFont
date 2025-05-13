@@ -2,6 +2,9 @@ original.ttf
 memo.txt
 debug.log
 tmp*
+Noto/
+*.typ
+*.ttx
 /glaph_images/to_rmbg/*
 !/glaph_images/to_rmbg/*.bash
 !/glaph_images/to_rmbg/*.py
